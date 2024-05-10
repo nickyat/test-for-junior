@@ -17,6 +17,7 @@ GET api/v1/wallets/{WALLET_UUID}
 
 стек:
 Spring 3
+
 Postgresql
 
 Должны быть написаны миграции для базы данных с помощью liquibase.
